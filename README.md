@@ -1,17 +1,20 @@
-## 👋 Olá! Eu sou Wemerson José da Cunha
+# 👋 Olá! Eu sou Wemerson José da Cunha
+### Desenvolvedor Frontend e Backend | Estudante de TI Focado em Programação
 
 
 
 Sou um estudante de TI de 16 anos com foco em programação. Tenho uma grande facilidade para aprender novas tecnologias e estou sempre em busca de aprimorar minhas habilidades. Atualmente, estou fazendo um curso profissionalizante e estudando várias linguagens e ferramentas de desenvolvimento.
+
 <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 Um Pouco Mais Sobre Mim:
-- 👨‍💻 Atualmente estudando **Java**, **Python**, **CSS**, **Bootstrap**, **HTML**, **Git** e **GitHub**;
-- 🛠️ Trabalhando em projetos como um site de fotografia e um sistema de cadastro de carteirinhas com **CRUD** e design gráfico;
-- 📚 Sempre buscando aprender e me aperfeiçoar em novas tecnologias;
+### Um Pouco Mais Sobre Mim:
+- 📚 Atualmente estudando **Java, Python, CSS, Bootstrap, HTML, Git e GitHub**;
+- 💻 Trabalhando em projetos como **um site de fotografia** e um **sistema de cadastro de carteirinhas com CRUD** e design gráfico;
+- 🚀 Sempre buscando aprender e me aperfeiçoar em novas tecnologias e ferramentas;
+
 
 <br>
 
@@ -34,3 +37,6 @@ Sou um estudante de TI de 16 anos com foco em programação. Tenho uma grande fa
 - **[Sistema de Cadastro de Carteirinhas]** - Um sistema completo com funcionalidades **CRUD** para cadastro e gerenciamento de carteirinhas, incluindo design gráfico.
 
 ---
+
+### Obrigado por visitar meu perfil!
+Estou sempre aberto a novas oportunidades e projetos. Sinta-se à vontade para entrar em contato para qualquer dúvida ou colaboração.
